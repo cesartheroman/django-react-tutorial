@@ -1,16 +1,218 @@
 {
   "status": "done",
   "assets": {
-    "frontend-64c5169e6d5da431e54b.js": {
-      "name": "frontend-64c5169e6d5da431e54b.js",
-      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-64c5169e6d5da431e54b.js",
-      "publicPath": "static/frontend/frontend-64c5169e6d5da431e54b.js"
+    "frontend-0c164da029671114e9b5.js": {
+      "name": "frontend-0c164da029671114e9b5.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-0c164da029671114e9b5.js",
+      "publicPath": "static/frontend/frontend-0c164da029671114e9b5.js"
+    },
+    "frontend-152533286635bacda8ee.js": {
+      "name": "frontend-152533286635bacda8ee.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-152533286635bacda8ee.js",
+      "publicPath": "static/frontend/frontend-152533286635bacda8ee.js"
+    },
+    "frontend-1e31dec89e03390b1485.js": {
+      "name": "frontend-1e31dec89e03390b1485.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-1e31dec89e03390b1485.js",
+      "publicPath": "static/frontend/frontend-1e31dec89e03390b1485.js"
+    },
+    "frontend-1f562b7bc6b28f343f62.js": {
+      "name": "frontend-1f562b7bc6b28f343f62.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-1f562b7bc6b28f343f62.js",
+      "publicPath": "static/frontend/frontend-1f562b7bc6b28f343f62.js"
+    },
+    "frontend-22ebcba47bc02953aebd.js": {
+      "name": "frontend-22ebcba47bc02953aebd.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-22ebcba47bc02953aebd.js",
+      "publicPath": "static/frontend/frontend-22ebcba47bc02953aebd.js"
+    },
+    "frontend-2688cd38887fda7dff08.js": {
+      "name": "frontend-2688cd38887fda7dff08.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-2688cd38887fda7dff08.js",
+      "publicPath": "static/frontend/frontend-2688cd38887fda7dff08.js"
+    },
+    "frontend-282e7e45d751320a031f.js": {
+      "name": "frontend-282e7e45d751320a031f.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-282e7e45d751320a031f.js",
+      "publicPath": "static/frontend/frontend-282e7e45d751320a031f.js"
+    },
+    "frontend-29c5c0a90983c7f805e9.js": {
+      "name": "frontend-29c5c0a90983c7f805e9.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-29c5c0a90983c7f805e9.js",
+      "publicPath": "static/frontend/frontend-29c5c0a90983c7f805e9.js"
+    },
+    "frontend-2bb0cb80b7397bc87988.js": {
+      "name": "frontend-2bb0cb80b7397bc87988.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-2bb0cb80b7397bc87988.js",
+      "publicPath": "static/frontend/frontend-2bb0cb80b7397bc87988.js"
+    },
+    "frontend-3a0c7490f97187a3ff56.js": {
+      "name": "frontend-3a0c7490f97187a3ff56.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-3a0c7490f97187a3ff56.js",
+      "publicPath": "static/frontend/frontend-3a0c7490f97187a3ff56.js"
+    },
+    "frontend-3dd7e000fc7e3029ab58.js": {
+      "name": "frontend-3dd7e000fc7e3029ab58.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-3dd7e000fc7e3029ab58.js",
+      "publicPath": "static/frontend/frontend-3dd7e000fc7e3029ab58.js"
+    },
+    "frontend-4172e55c3ab255b04379.js": {
+      "name": "frontend-4172e55c3ab255b04379.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-4172e55c3ab255b04379.js",
+      "publicPath": "static/frontend/frontend-4172e55c3ab255b04379.js"
+    },
+    "frontend-459a9906ee0e17596f2a.js": {
+      "name": "frontend-459a9906ee0e17596f2a.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-459a9906ee0e17596f2a.js",
+      "publicPath": "static/frontend/frontend-459a9906ee0e17596f2a.js"
+    },
+    "frontend-46abe02ae364cc66b504.js": {
+      "name": "frontend-46abe02ae364cc66b504.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-46abe02ae364cc66b504.js",
+      "publicPath": "static/frontend/frontend-46abe02ae364cc66b504.js"
+    },
+    "frontend-52b1f46f444ea95915dd.js": {
+      "name": "frontend-52b1f46f444ea95915dd.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-52b1f46f444ea95915dd.js",
+      "publicPath": "static/frontend/frontend-52b1f46f444ea95915dd.js"
+    },
+    "frontend-52e2799495a066cd14c3.js": {
+      "name": "frontend-52e2799495a066cd14c3.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-52e2799495a066cd14c3.js",
+      "publicPath": "static/frontend/frontend-52e2799495a066cd14c3.js"
+    },
+    "frontend-59b4f9a8d28dc038645f.js": {
+      "name": "frontend-59b4f9a8d28dc038645f.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-59b4f9a8d28dc038645f.js",
+      "publicPath": "static/frontend/frontend-59b4f9a8d28dc038645f.js"
+    },
+    "frontend-5aa9f8c20b8e82005eca.js": {
+      "name": "frontend-5aa9f8c20b8e82005eca.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-5aa9f8c20b8e82005eca.js",
+      "publicPath": "static/frontend/frontend-5aa9f8c20b8e82005eca.js"
+    },
+    "frontend-64e237c27dd925e60831.js": {
+      "name": "frontend-64e237c27dd925e60831.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-64e237c27dd925e60831.js",
+      "publicPath": "static/frontend/frontend-64e237c27dd925e60831.js"
+    },
+    "frontend-6bde85f6fee8ad2cf659.js": {
+      "name": "frontend-6bde85f6fee8ad2cf659.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-6bde85f6fee8ad2cf659.js",
+      "publicPath": "static/frontend/frontend-6bde85f6fee8ad2cf659.js"
+    },
+    "frontend-71158f8a595e9e2428fc.js": {
+      "name": "frontend-71158f8a595e9e2428fc.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-71158f8a595e9e2428fc.js",
+      "publicPath": "static/frontend/frontend-71158f8a595e9e2428fc.js"
+    },
+    "frontend-8061c8e9c840218f6077.js": {
+      "name": "frontend-8061c8e9c840218f6077.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-8061c8e9c840218f6077.js",
+      "publicPath": "static/frontend/frontend-8061c8e9c840218f6077.js"
+    },
+    "frontend-81606bc1606da2e811e4.js": {
+      "name": "frontend-81606bc1606da2e811e4.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-81606bc1606da2e811e4.js",
+      "publicPath": "static/frontend/frontend-81606bc1606da2e811e4.js"
+    },
+    "frontend-983d9e4cb8223afff9ae.js": {
+      "name": "frontend-983d9e4cb8223afff9ae.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-983d9e4cb8223afff9ae.js",
+      "publicPath": "static/frontend/frontend-983d9e4cb8223afff9ae.js"
+    },
+    "frontend-9acfef0f10b6dc725e06.js": {
+      "name": "frontend-9acfef0f10b6dc725e06.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-9acfef0f10b6dc725e06.js",
+      "publicPath": "static/frontend/frontend-9acfef0f10b6dc725e06.js"
+    },
+    "frontend-ac1a49c1d0ced29ef9fa.js": {
+      "name": "frontend-ac1a49c1d0ced29ef9fa.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-ac1a49c1d0ced29ef9fa.js",
+      "publicPath": "static/frontend/frontend-ac1a49c1d0ced29ef9fa.js"
+    },
+    "frontend-adf138a60a8bdb90ec29.js": {
+      "name": "frontend-adf138a60a8bdb90ec29.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-adf138a60a8bdb90ec29.js",
+      "publicPath": "static/frontend/frontend-adf138a60a8bdb90ec29.js"
+    },
+    "frontend-affe9a8e9b56d8f6fad2.js": {
+      "name": "frontend-affe9a8e9b56d8f6fad2.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-affe9a8e9b56d8f6fad2.js",
+      "publicPath": "static/frontend/frontend-affe9a8e9b56d8f6fad2.js"
+    },
+    "frontend-bd8eb3aebe51e7e5671c.js": {
+      "name": "frontend-bd8eb3aebe51e7e5671c.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-bd8eb3aebe51e7e5671c.js",
+      "publicPath": "static/frontend/frontend-bd8eb3aebe51e7e5671c.js"
+    },
+    "frontend-c014a48e189819bbe30b.js": {
+      "name": "frontend-c014a48e189819bbe30b.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-c014a48e189819bbe30b.js",
+      "publicPath": "static/frontend/frontend-c014a48e189819bbe30b.js"
+    },
+    "frontend-c3fffbd09275b722a4c0.js": {
+      "name": "frontend-c3fffbd09275b722a4c0.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-c3fffbd09275b722a4c0.js",
+      "publicPath": "static/frontend/frontend-c3fffbd09275b722a4c0.js"
+    },
+    "frontend-c4a569faa2cd77945bd8.js": {
+      "name": "frontend-c4a569faa2cd77945bd8.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-c4a569faa2cd77945bd8.js",
+      "publicPath": "static/frontend/frontend-c4a569faa2cd77945bd8.js"
+    },
+    "frontend-cd5cc47ab859e8d98fb8.js": {
+      "name": "frontend-cd5cc47ab859e8d98fb8.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-cd5cc47ab859e8d98fb8.js",
+      "publicPath": "static/frontend/frontend-cd5cc47ab859e8d98fb8.js"
+    },
+    "frontend-d005e14f3a7ce25d7968.js": {
+      "name": "frontend-d005e14f3a7ce25d7968.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-d005e14f3a7ce25d7968.js",
+      "publicPath": "static/frontend/frontend-d005e14f3a7ce25d7968.js"
+    },
+    "frontend-d1559588b33989076dc4.js": {
+      "name": "frontend-d1559588b33989076dc4.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-d1559588b33989076dc4.js",
+      "publicPath": "static/frontend/frontend-d1559588b33989076dc4.js"
+    },
+    "frontend-d515e56265f4d66f2378.js": {
+      "name": "frontend-d515e56265f4d66f2378.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-d515e56265f4d66f2378.js",
+      "publicPath": "static/frontend/frontend-d515e56265f4d66f2378.js"
+    },
+    "frontend-d5b9d88ee71eedf22f2a.js": {
+      "name": "frontend-d5b9d88ee71eedf22f2a.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-d5b9d88ee71eedf22f2a.js",
+      "publicPath": "static/frontend/frontend-d5b9d88ee71eedf22f2a.js"
+    },
+    "frontend-d85dfd8a03f5fbcac50a.js": {
+      "name": "frontend-d85dfd8a03f5fbcac50a.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-d85dfd8a03f5fbcac50a.js",
+      "publicPath": "static/frontend/frontend-d85dfd8a03f5fbcac50a.js"
+    },
+    "frontend-e2427cf538eb8db9c1a8.js": {
+      "name": "frontend-e2427cf538eb8db9c1a8.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-e2427cf538eb8db9c1a8.js",
+      "publicPath": "static/frontend/frontend-e2427cf538eb8db9c1a8.js"
+    },
+    "frontend-e72bac007f95b74a38ff.js": {
+      "name": "frontend-e72bac007f95b74a38ff.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-e72bac007f95b74a38ff.js",
+      "publicPath": "static/frontend/frontend-e72bac007f95b74a38ff.js"
+    },
+    "frontend-f7cc22e1b6d24ecf47c5.js": {
+      "name": "frontend-f7cc22e1b6d24ecf47c5.js",
+      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-f7cc22e1b6d24ecf47c5.js",
+      "publicPath": "static/frontend/frontend-f7cc22e1b6d24ecf47c5.js"
     }
   },
   "chunks": {
     "frontend": [
-      "frontend-64c5169e6d5da431e54b.js"
+      "frontend-3a0c7490f97187a3ff56.js"
     ]
   },
-  "publicPath": "static/frontend/"
+  "publicPath": "static/frontend/",
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: /Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/src/App.jsx: Missing semicolon. (87:5)\n\n  85 |         </li>\n  86 |       )\n> 87 |     ));\n     |      ^\n  88 |   };\n  89 |\n  90 |   // useEffect(() => {\n    at instantiate (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:64:32)\n    at constructor (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:364:12)\n    at JSXParserMixin.raise (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:3253:19)\n    at JSXParserMixin.semicolon (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:3624:10)\n    at JSXParserMixin.parseReturnStatement (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12935:12)\n    at JSXParserMixin.parseStatementContent (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12581:21)\n    at JSXParserMixin.parseStatementLike (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12548:17)\n    at JSXParserMixin.parseStatementListItem (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12528:17)\n    at JSXParserMixin.parseBlockOrModuleBlockBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13120:61)\n    at JSXParserMixin.parseBlockBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13113:10)\n    at JSXParserMixin.parseBlock (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13101:10)\n    at JSXParserMixin.parseFunctionBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11911:24)\n    at JSXParserMixin.parseArrowExpression (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11886:10)\n    at JSXParserMixin.parseParenAndDistinguishExpression (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11489:12)\n    at JSXParserMixin.parseExprAtom (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11128:23)\n    at JSXParserMixin.parseExprAtom (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:6992:20)\n    at JSXParserMixin.parseExprSubscripts (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10859:23)\n    at JSXParserMixin.parseUpdate (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10842:21)\n    at JSXParserMixin.parseMaybeUnary (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10818:23)\n    at JSXParserMixin.parseMaybeUnaryOrPrivate (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10656:61)\n    at JSXParserMixin.parseExprOps (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10661:23)\n    at JSXParserMixin.parseMaybeConditional (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10638:23)\n    at JSXParserMixin.parseMaybeAssign (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10599:21)\n    at /Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10569:39\n    at JSXParserMixin.allowInAnd (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12239:16)\n    at JSXParserMixin.parseMaybeAssignAllowIn (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10569:17)\n    at JSXParserMixin.parseVar (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13192:91)\n    at JSXParserMixin.parseVarStatement (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13031:10)\n    at JSXParserMixin.parseStatementContent (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12628:23)\n    at JSXParserMixin.parseStatementLike (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12548:17)\n    at JSXParserMixin.parseStatementListItem (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12528:17)\n    at JSXParserMixin.parseBlockOrModuleBlockBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13120:61)\n    at JSXParserMixin.parseBlockBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13113:10)\n    at JSXParserMixin.parseBlock (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13101:10)\n    at JSXParserMixin.parseFunctionBody (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11911:24)\n    at JSXParserMixin.parseArrowExpression (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11886:10)\n    at JSXParserMixin.parseParenAndDistinguishExpression (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11489:12)\n    at JSXParserMixin.parseExprAtom (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:11128:23)\n    at JSXParserMixin.parseExprAtom (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:6992:20)\n    at JSXParserMixin.parseExprSubscripts (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10859:23)\n    at JSXParserMixin.parseUpdate (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10842:21)\n    at JSXParserMixin.parseMaybeUnary (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10818:23)\n    at JSXParserMixin.parseMaybeUnaryOrPrivate (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10656:61)\n    at JSXParserMixin.parseExprOps (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10661:23)\n    at JSXParserMixin.parseMaybeConditional (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10638:23)\n    at JSXParserMixin.parseMaybeAssign (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10599:21)\n    at /Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10569:39\n    at JSXParserMixin.allowInAnd (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:12239:16)\n    at JSXParserMixin.parseMaybeAssignAllowIn (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:10569:17)\n    at JSXParserMixin.parseVar (/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/node_modules/@babel/parser/lib/index.js:13192:91)"
 }
