@@ -7,7 +7,7 @@ secret_settings.py
 node_modules/
 env/
 frontend/static/frontend/
-webpack-stats.json
+django_react_starter/webpack-stats.json
 # C extensions
 *.so
 
