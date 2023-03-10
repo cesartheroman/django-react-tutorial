@@ -2,33 +2,6 @@ import React, { useEffect, useState } from 'react';
 
 import CustomModal from './components/Modal';
 
-const todoItems = [
-  {
-    id: 1,
-    title: 'Go to Market',
-    description: 'Buy ingredients to prepare dinner',
-    completed: true,
-  },
-  {
-    id: 2,
-    title: 'Study',
-    description: 'Read Algebra and History textbook for the upcoming test',
-    completed: false,
-  },
-  {
-    id: 3,
-    title: "Sammy's books",
-    description: "Go to library to return Sammy's books",
-    completed: true,
-  },
-  {
-    id: 4,
-    title: 'Article',
-    description: 'Write article on how to use Django with React',
-    completed: false,
-  },
-];
-
 const App = () => {
   const [todoList, setTodoList] = useState([{}]);
   const [viewCompleted, setViewCompleted] = useState(false);
@@ -39,17 +12,70 @@ const App = () => {
     completed: false,
   });
 
+  useEffect(() => {
+    refreshList();
+  }, []);
+
+  const refreshList = async () => {
+    try {
+      const getTodoList = await fetch('/api/todos/');
+      const todos = await getTodoList.json();
+      setTodoList((todoList) => todos);
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
   const toggle = () => {
     setModal(!modal);
   };
 
-  const handleSubmit = (item) => {
+  const handleSubmit = async (item) => {
     toggle();
-    alert('save' + JSON.stringify(item));
+
+    try {
+      if (item.id) {
+        const myRequest = new Request(`/api/todos/${item.id}/`, {
+          method: 'PUT',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(item),
+        });
+
+        await fetch(myRequest);
+
+        refreshList();
+        return;
+      }
+
+      const myRequest = new Request('/api/todos/', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(item),
+      });
+
+      const postTodo = await fetch(myRequest);
+      refreshList();
+    } catch (e) {
+      console.error(e);
+    }
   };
 
-  const handleDelete = (item) => {
-    alert('delete' + JSON.stringify(item));
+  const handleDelete = async (item) => {
+    try {
+      const options = {
+        method: 'DELETE',
+      };
+
+      await fetch(`/api/todos/${item.id}`, options);
+
+      refreshList();
+    } catch (e) {
+      console.error(e);
+    }
   };
 
   const createItem = () => {
@@ -127,10 +153,6 @@ const App = () => {
       </li>
     ));
   };
-
-  useEffect(() => {
-    setTodoList(todoItems);
-  }, []);
 
   return (
     <main className="container">
