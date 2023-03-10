@@ -1,20 +1,10 @@
 {
   "status": "done",
   "assets": {
-    "frontend-53341ab93be40fa0f460.js": {
-      "name": "frontend-53341ab93be40fa0f460.js",
-      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-53341ab93be40fa0f460.js",
-      "publicPath": "static/frontend/frontend-53341ab93be40fa0f460.js"
-    },
     "frontend-64c5169e6d5da431e54b.js": {
       "name": "frontend-64c5169e6d5da431e54b.js",
       "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-64c5169e6d5da431e54b.js",
       "publicPath": "static/frontend/frontend-64c5169e6d5da431e54b.js"
-    },
-    "frontend-ab28f2c107f014bebb70.js": {
-      "name": "frontend-ab28f2c107f014bebb70.js",
-      "path": "/Users/davidroman/Documents/Coding/Projects/Python Projects/django_todo_react/django_react_starter/frontend/static/frontend/frontend-ab28f2c107f014bebb70.js",
-      "publicPath": "static/frontend/frontend-ab28f2c107f014bebb70.js"
     }
   },
   "chunks": {
