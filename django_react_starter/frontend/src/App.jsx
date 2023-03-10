@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
+import CustomModal from './components/Modal';
+
 const todoItems = [
   {
     id: 1,
@@ -30,6 +32,41 @@ const todoItems = [
 const App = () => {
   const [todoList, setTodoList] = useState([{}]);
   const [viewCompleted, setViewCompleted] = useState(false);
+  const [modal, setModal] = useState(false);
+  const [activeItem, setActiveItem] = useState({
+    title: '',
+    description: '',
+    completed: false,
+  });
+
+  const toggle = () => {
+    setModal(!modal);
+  };
+
+  const handleSubmit = (item) => {
+    toggle();
+    alert('save' + JSON.stringify(item));
+  };
+
+  const handleDelete = (item) => {
+    alert('delete' + JSON.stringify(item));
+  };
+
+  const createItem = () => {
+    const item = {
+      title: '',
+      description: '',
+      completed: false,
+    };
+
+    setActiveItem(item);
+    setModal(!modal);
+  };
+
+  const editItem = (item) => {
+    setActiveItem(item);
+    setModal(!modal);
+  };
 
   const displayCompleted = (status) => {
     if (status) {
@@ -77,8 +114,15 @@ const App = () => {
         </span>
 
         <span>
-          <button className="btn btn-secondary mr-2">Edit</button>
-          <button className="btn btn-danger">Delete</button>
+          <button
+            className="btn btn-secondary mr-2"
+            onClick={() => editItem(item)}
+          >
+            Edit
+          </button>
+          <button className="btn btn-danger" onClick={() => handleDelete(item)}>
+            Delete
+          </button>
         </span>
       </li>
     ));
@@ -95,7 +139,9 @@ const App = () => {
         <div className="col-md-6 col-sm-10 mx-auto p-0">
           <div className="card p-3">
             <div className="mb-4">
-              <button className="btn btn-primary">Add task</button>
+              <button className="btn btn-primary" onClick={createItem}>
+                Add task
+              </button>
             </div>
             {renderTabList()}
             <ul className="list-group list-group-flush border-top-0">
@@ -104,6 +150,13 @@ const App = () => {
           </div>
         </div>
       </div>
+      {modal && (
+        <CustomModal
+          activeItem={activeItem}
+          toggle={toggle}
+          onSave={handleSubmit}
+        />
+      )}
     </main>
   );
 };
