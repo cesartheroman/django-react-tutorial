@@ -10,9 +10,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "proxy": "http://localhost:8000",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "reactstrap": "^9.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",

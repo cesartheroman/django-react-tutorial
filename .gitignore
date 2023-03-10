@@ -6,7 +6,7 @@ secret_settings.py
 .DS_Store
 node_modules/
 env/
-frontend/static/frontend/
+django_react_starter/frontend/static/frontend/
 django_react_starter/webpack-stats.json
 # C extensions
 *.so
